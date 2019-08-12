@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Try_for",
+            "request": "launch",
+            "mainClass": "Try_for"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test_for",
+            "request": "launch",
+            "mainClass": "Test_for"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test_If",
+            "request": "launch",
+            "mainClass": "Test_If"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemInScanner",
+            "request": "launch",
+            "mainClass": "SystemInScanner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemOutPrintln",
+            "request": "launch",
+            "mainClass": "SystemOutPrintln"
+        }
+    ]
+}
