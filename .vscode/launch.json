@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Try_HashMap",
+            "request": "launch",
+            "mainClass": "Try_HashMap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Try_ArrayList",
+            "request": "launch",
+            "mainClass": "Try_ArrayList"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Try_String",
+            "request": "launch",
+            "mainClass": "Try_String"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Try_for",
             "request": "launch",
             "mainClass": "Try_for"
