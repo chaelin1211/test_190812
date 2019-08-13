@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Try_inheritance",
+            "request": "launch",
+            "mainClass": "Try_inheritance"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Try_SetGet",
+            "request": "launch",
+            "mainClass": "Try_SetGet"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Try_MethodOverload",
             "request": "launch",
             "mainClass": "Try_MethodOverload"
