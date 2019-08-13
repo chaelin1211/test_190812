@@ -53,6 +53,12 @@
             "name": "CodeLens (Launch) - SystemOutPrintln",
             "request": "launch",
             "mainClass": "SystemOutPrintln"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Try_string",
+            "request": "launch",
+            "mainClass": "Try_string"
         }
     ]
 }
