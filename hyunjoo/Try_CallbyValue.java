@@ -4,12 +4,16 @@ public class Try_CallbyValue {
     public static void main(String[] args) {
         int localValue = 50;
         System.out.println("Before change " + localValue);
-        localValue = change(500);
+
+        Try_CallbyValue try_CallbyValue = new Try_CallbyValue();
+        localValue = try_CallbyValue.change(500);
+
+        //localValue = change(500);
         System.out.println("after change " + localValue);
         System.out.println("global " + globalValue);
     }
 
-    public static int change(int data) {
+    public int change(int data) {
         int returnValue;
         returnValue = data + 100;
         return returnValue;
