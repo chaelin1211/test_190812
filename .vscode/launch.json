@@ -2,21 +2,21 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - JWEOuterClass",
+            "name": "CodeLens (Launch) - Try_inheritance",
             "request": "launch",
-            "mainClass": "JWEOuterClass"
+            "mainClass": "Try_inheritance"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Try_Innerclass",
+            "name": "CodeLens (Launch) - Try_SetGet",
             "request": "launch",
-            "mainClass": "Try_Innerclass"
+            "mainClass": "Try_SetGet"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - JWEOverloadingWithParameters",
+            "name": "CodeLens (Launch) - Try_MethodOverload",
             "request": "launch",
-            "mainClass": "JWEOverloadingWithParameters"
+            "mainClass": "Try_MethodOverload"
         },
         {
             "type": "java",
@@ -26,15 +26,15 @@
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Try_CallbyValue",
+            "name": "CodeLens (Launch) - Try_CallByValue",
             "request": "launch",
-            "mainClass": "Try_CallbyValue"
+            "mainClass": "Try_CallByValue"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Try_Collection02",
+            "name": "CodeLens (Launch) - Try_Collection2",
             "request": "launch",
-            "mainClass": "Try_Collection02"
+            "mainClass": "Try_Collection2"
         },
         {
             "type": "java",
