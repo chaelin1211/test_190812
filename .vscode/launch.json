@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Try_MethodOverload",
+            "request": "launch",
+            "mainClass": "Try_MethodOverload"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Try_Overloading",
+            "request": "launch",
+            "mainClass": "Try_Overloading"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Try_CallByValue",
+            "request": "launch",
+            "mainClass": "Try_CallByValue"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Try_Collection2",
+            "request": "launch",
+            "mainClass": "Try_Collection2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Try_Collection",
             "request": "launch",
             "mainClass": "Try_Collection"

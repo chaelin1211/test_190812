@@ -13,16 +13,16 @@ public class Try_Collection {
         list2.add(33);
         list2.add(44);
         list2.add(55);
-        HashMap<Object, Object> hmap = new HashMap<Object, Object>();
+        HashMap<Object, ArrayList> hmap = new HashMap<Object, ArrayList>();
         hmap.put("str", list);
         hmap.put("integer", list2);
-        ArrayList<Integer> outlist01 = (ArrayList<Integer>) hmap.get("integer");
-        ArrayList<String> outlist02 = (ArrayList<String>) hmap.get("str");
-        for (int i = 0; i < outlist01.size(); i++) {
-            System.out.println(i + " " + outlist01.get(i));
+        ArrayList<Integer> outlist01 = hmap.get("integer");
+        ArrayList<String> outlist02 = hmap.get("str");
+        for (Object x:outlist01) {
+            System.out.println(x);
         }
-        for (int i = 0; i < outlist02.size(); i++) {
-            System.out.println(i + " " + outlist02.get(i));
+        for (Object x:outlist02) {
+            System.out.println(x);
         }
 
     }
